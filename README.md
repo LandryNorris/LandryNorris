@@ -24,6 +24,17 @@ Technologies I use
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-333.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=green)
 
+Gihub Stats
+===========
+
+<a href="https://github.com/LandryNorris/LandryNorris">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandryNorris&title_color=000000&text_color=000000" />
+</a>
+
+<a href="https://github.com/LandryNorris/LandryNorris">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LandryNorris&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="Landry's GitHub Stats" />
+</a>
+
 I can be reached by
 ===================
 
