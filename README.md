@@ -14,8 +14,8 @@ Technologies I use
 
 ![Kotlin](https://img.shields.io/badge/kotlin-333.svg?style=for-the-badge&logo=kotlin)
 ![Rust](https://img.shields.io/badge/rust-333.svg?style=for-the-badge&logo=rust&logoColor=orange)
-![Java](https://img.shields.io/badge/java-333.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/c-333.svg?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/java-333.svg?style=for-the-badge&logo=java&logoColor=red&labelColor=eee)
+![C](https://img.shields.io/badge/c-333.svg?style=for-the-badge&logo=c&labelColor=366d96&logoColor=white)
 
 ![Firebase](https://img.shields.io/badge/firebase-333.svg?style=for-the-badge&logo=firebase)
 
