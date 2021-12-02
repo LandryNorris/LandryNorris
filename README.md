@@ -25,7 +25,7 @@ Technologies I use
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-333.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=green)
 
-Gihub Stats
+Github Stats
 ===========
 
 <a href="https://github.com/LandryNorris/LandryNorris">
