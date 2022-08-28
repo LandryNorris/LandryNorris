@@ -15,7 +15,8 @@ In addition to programming, I study Electrical Engineering at the University of 
 Education
 ---------
 
-Wylie East High School (2015-2019)
+Wylie East High School (2015-2019) \
+GPA - 3.945 (4.0) / 5.46 (6.0)
 
 
 UTDallas (2019-2023) \
