@@ -4,7 +4,8 @@ Hello,
 My name is Landry Norris and I am a software developer from Dallas, Texas. 
 I have experience ranging from embedded systems and robotics to mobile and server-side development. 
 In addition to programming, I study Electrical Engineering at the University of Texas at Dallas.
-Currently, I am developing mobile applications at V1 Sports using agile methodology.
+Currently, I am developing mobile applications at V1 Sports using agile methodology. I primarily
+work on a custom libav based video player for Android/iOS written using Kotlin/Native.
 
 Technologies I use
 ==================
@@ -13,10 +14,13 @@ Technologies I use
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-333?style=for-the-badge&logo=google%20chrome)
 ![Android](https://img.shields.io/badge/Android-333?logo=android&style=for-the-badge)
 
+
 ![Kotlin](https://img.shields.io/badge/kotlin-333.svg?style=for-the-badge&logo=kotlin)
 ![Rust](https://img.shields.io/badge/rust-333.svg?style=for-the-badge&logo=rust&logoColor=orange)
 ![Java](https://img.shields.io/badge/java-333.svg?style=for-the-badge&logo=java&logoColor=red&labelColor=eee)
 ![C](https://img.shields.io/badge/c-333.svg?style=for-the-badge&logo=c&labelColor=366d96&logoColor=white)
+
+![FFmpeg](https://a11ybadges.com/badge?logo=ffmpeg)
 
 ![Firebase](https://img.shields.io/badge/firebase-333.svg?style=for-the-badge&logo=firebase)
 
