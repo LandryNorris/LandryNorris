@@ -25,7 +25,10 @@ GPA - //TODO(LandryNorris) - Graduate in 2023
 Experience
 ----------
 
-CodeNinjas (2018-2021) \
+Employed: \
+CodeNinjas (2018-2021)
+
+Self-Employed: \
 Mobile Development for PocketPar Golf app using Kotlin (2019-2020) \
 Mobile Development for V1 Sports using Java/Kotlin (2020-present)
 
@@ -45,7 +48,7 @@ Programming Languages
 </a>
 
 Java - 6 years \
-Kotlin - 4 years \
+Kotlin - 5 years \
 C - 7 years \
 Swift - 1 year
 
