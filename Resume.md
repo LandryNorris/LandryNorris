@@ -10,13 +10,14 @@ About me
 --------
 
 I am a software developer from Dallas, Texas. I have experience ranging from embedded systems and robotics to mobile and server-side development. 
-In addition to programming, I study Electrical Engineering at the University of Texas at Dallas. I currently work at V1 Sports.
+In addition to programming, I study Electrical Engineering at the University of Texas at Dallas. I currently work at Rev Robotics.
 
 Education
 ---------
 
 Wylie East High School (2015-2019) \
-GPA - 3.945 (4.0) / 5.46 (6.0)
+GPA - 3.945 (4.0) / 5.46 (6.0) \
+University of Texas at Dallas (2019-2023)
 
 
 UTDallas (2019-2023) \
@@ -26,11 +27,12 @@ Experience
 ----------
 
 Employed: \
-CodeNinjas (2018-2021)
+CodeNinjas (2018-2021) \
+Rev Robotics (2023-present)
 
 Self-Employed: \
 Mobile Development for PocketPar Golf app using Kotlin (2019-2020) \
-Mobile Development for V1 Sports using Java/Kotlin (2020-present)
+Mobile Development for V1 Sports using Java/Kotlin (2020-2023)
 
 Skills
 ------
