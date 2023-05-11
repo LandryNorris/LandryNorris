@@ -4,8 +4,7 @@ Hello,
 My name is Landry Norris and I am a software developer from Dallas, Texas. 
 I have experience ranging from embedded systems and robotics to mobile and server-side development. 
 In addition to programming, I study Electrical Engineering at the University of Texas at Dallas.
-Currently, I am developing mobile applications at V1 Sports using agile methodology. I primarily
-work on a custom libav based video player for Android/iOS written using Kotlin/Native.
+Currently, I am developing desktop applications and embedded firmware at Rev Robotics. 
 
 Technologies I use
 ==================
