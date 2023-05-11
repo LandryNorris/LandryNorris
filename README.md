@@ -17,6 +17,7 @@ Technologies I use
 ![Kotlin](https://img.shields.io/badge/kotlin-333.svg?style=for-the-badge&logo=kotlin)
 ![Rust](https://img.shields.io/badge/rust-333.svg?style=for-the-badge&logo=rust&logoColor=orange)
 ![Java](https://img.shields.io/badge/java-333.svg?style=for-the-badge&logo=java&logoColor=red&labelColor=eee)
+![Typescript](https://img.shields.io/badge/typescript-333.svg?style=for-the-badge&logo=typescript)
 ![C](https://img.shields.io/badge/c-333.svg?style=for-the-badge&logo=c&labelColor=366d96&logoColor=white)
 
 ![FFmpeg](https://a11ybadges.com/badge?logo=ffmpeg)
@@ -24,6 +25,7 @@ Technologies I use
 ![Firebase](https://img.shields.io/badge/firebase-333.svg?style=for-the-badge&logo=firebase)
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-333.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-333?style=for-the-badge&logo=webstorm&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-333?style=for-the-badge&logo=clion&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-333.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=green)
