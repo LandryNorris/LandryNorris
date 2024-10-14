@@ -40,9 +40,3 @@ Github Stats
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LandryNorris&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="Landry's GitHub Stats" />
 </a>
 
-I can be reached by
-===================
-
-1. phone: 972-757-8292
-1. email: landry.norris0@gmail.com
-1. LinkedIn: [Landry Norris](https://www.linkedin.com/in/landry-norris)
