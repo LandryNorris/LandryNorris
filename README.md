@@ -6,23 +6,25 @@ I have experience ranging from embedded systems and robotics to mobile and serve
 I am a graduate of the University of Texas at Dallas.
 Currently, I am developing desktop applications and embedded firmware at Rev Robotics. 
 
+I am driven by a curiosity for how tools really work; whether it's bridging native code with modern 
+languages, crafting embedded systems from scratch, or building minimal kernels and runtime environments. 
+I enjoy peeling back abstractions and understanding the mechanisms behind compilers, Operating Systems, 
+and cross-platform frameworks. I believe true insight lies in understanding what happens under the 
+hood, and that's what fuels my tinkering and learning.
+
 Technologies I use
 ==================
 ![Arch](https://img.shields.io/badge/Arch%20Linux-333?logo=arch-linux&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-333?style=for-the-badge&logo=ubuntu)
-![Chrome OS](https://img.shields.io/badge/chrome%20os-333?style=for-the-badge&logo=google%20chrome)
 ![Android](https://img.shields.io/badge/Android-333?logo=android&style=for-the-badge)
 
 
 ![Kotlin](https://img.shields.io/badge/kotlin-333.svg?style=for-the-badge&logo=kotlin)
-![Rust](https://img.shields.io/badge/rust-333.svg?style=for-the-badge&logo=rust&logoColor=orange)
 ![Java](https://img.shields.io/badge/java-333.svg?style=for-the-badge&logo=java&logoColor=red&labelColor=eee)
-![Typescript](https://img.shields.io/badge/typescript-333.svg?style=for-the-badge&logo=typescript)
 ![C](https://img.shields.io/badge/c-333.svg?style=for-the-badge&logo=c&labelColor=366d96&logoColor=white)
+![CMake](https://img.shields.io/badge/cmake-333.svg?style=for-the-badge&logo=cmake&labelColor=darkblue)
 
 ![FFmpeg](https://a11ybadges.com/badge?logo=ffmpeg)
-
-![Firebase](https://img.shields.io/badge/firebase-333.svg?style=for-the-badge&logo=firebase)
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-333.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-333?style=for-the-badge&logo=webstorm&logoColor=white)
