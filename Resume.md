@@ -10,7 +10,7 @@ About me
 --------
 
 I am a software developer from Dallas, Texas. I have experience ranging from embedded systems and robotics to mobile and server-side development. 
-In addition to programming, I study Electrical Engineering at the University of Texas at Dallas. I currently work at Rev Robotics.
+In addition to programming, I studied Electrical Engineering at the University of Texas at Dallas. I currently work at Rev Robotics.
 
 Education
 ---------
@@ -21,7 +21,7 @@ University of Texas at Dallas (2019-2023)
 
 
 UTDallas (2019-2023) \
-GPA - //TODO(LandryNorris) - Graduate in 2023
+Graduated in 2023
 
 Experience
 ----------
@@ -49,9 +49,9 @@ Programming Languages
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandryNorris&title_color=000000&text_color=000000" />
 </a>
 
-Java - 6 years \
-Kotlin - 5 years \
-C - 7 years \
+Java - 9 years \
+Kotlin - 8 years \
+C - 10 years \
 Swift - 1 year
 
 GitHub Stats
